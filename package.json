@@ -1,0 +1,32 @@
+{
+  "name": "claude-agents",
+  "version": "1.0.0",
+  "description": "A comprehensive collection of specialized AI agents for different domains and use cases",
+  "main": "index.js",
+  "scripts": {
+    "validate": "node scripts/validate-agents.js",
+    "build": "node scripts/build-index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "claude",
+    "ai",
+    "agents",
+    "automation",
+    "assistants",
+    "ai-agents",
+    "claude-ai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "files": [
+    "agents/",
+    "scripts/",
+    "README.md",
+    "LICENSE"
+  ]
+}
